@@ -1,0 +1,27 @@
+.admin-badge {
+    background-color: #9147ff;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 0.7em;
+    margin-right: 8px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.mod-badge {
+    background-color: #eb0400;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 0.7em;
+    margin-right: 8px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.badge-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+}
